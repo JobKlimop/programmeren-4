@@ -5,7 +5,6 @@
   "main": "./practicum1",
   "scripts": {
     "start": "practicum1"
-    //    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Lucas",
   "license": "ISC",
