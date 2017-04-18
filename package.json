@@ -1,0 +1,14 @@
+{
+  "name": "practicum-1",
+  "version": "1.0.0",
+  "description": "Random User Generator REST API in Node.js",
+  "main": "practicum1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
