@@ -2,9 +2,9 @@
   "name": "practicum-1",
   "version": "1.0.0",
   "description": "Random User Generator REST API in Node.js",
-  "main": "./Practicum-1/practicum1",
+  "main": "./practicum1",
   "scripts": {
-    "start": "node ./Practicum-1/practicum1"
+    "start": "practicum1"
     //    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Lucas",

@@ -1,1 +1,1 @@
-web: node ./Practicum-1/practicum1
+web: node ./practicum1
